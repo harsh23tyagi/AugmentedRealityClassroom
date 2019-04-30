@@ -1,0 +1,372 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9932,
+      "max": [
+        63.819999694824219,
+        -4.5240001678466797,
+        18.679599761962891
+      ],
+      "min": [
+        49.869800567626953,
+        -14.418800354003906,
+        5.7952399253845215
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 119184,
+      "componentType": 5126,
+      "count": 9932,
+      "max": [
+        0.99950641393661499,
+        0.99803429841995239,
+        0.99824339151382446
+      ],
+      "min": [
+        -0.99950641393661499,
+        -0.99803429841995239,
+        -0.99824339151382446
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 41208,
+      "max": [
+        9931
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 238368,
+      "componentType": 5126,
+      "count": 6364,
+      "max": [
+        62.996700286865234,
+        -4.5240001678466797,
+        18.66309928894043
+      ],
+      "min": [
+        50.43280029296875,
+        -14.418800354003906,
+        5.7952399253845215
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 314736,
+      "componentType": 5126,
+      "count": 6364,
+      "max": [
+        0.99710565805435181,
+        0.99776315689086914,
+        0.99787700176239014
+      ],
+      "min": [
+        -0.99710565805435181,
+        -0.99522095918655396,
+        -0.99787700176239014
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 164832,
+      "componentType": 5125,
+      "count": 18768,
+      "max": [
+        6363
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 391104,
+      "componentType": 5126,
+      "count": 9944,
+      "max": [
+        63.525798797607422,
+        -3.6988000869750977,
+        19.033300399780273
+      ],
+      "min": [
+        49.964500427246094,
+        -15.060199737548828,
+        4.8245902061462402
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 510432,
+      "componentType": 5126,
+      "count": 9944,
+      "max": [
+        0.99936240911483765,
+        0.99803406000137329,
+        0.9994359016418457
+      ],
+      "min": [
+        -0.99936240911483765,
+        -0.99803406000137329,
+        -0.9994359016418457
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 239904,
+      "componentType": 5125,
+      "count": 39378,
+      "max": [
+        9943
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 629760,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        63.022998809814453,
+        -4.9842300415039062,
+        18.15049934387207
+      ],
+      "min": [
+        50.125701904296875,
+        -12.264599800109863,
+        10.167099952697754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 637104,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        0.99621665477752686,
+        0.84756624698638916,
+        0.99432545900344849
+      ],
+      "min": [
+        -0.99621665477752686,
+        -0.84756624698638916,
+        -0.99432545900344849
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 397416,
+      "componentType": 5125,
+      "count": 1782,
+      "max": [
+        611
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Andre.Arigony.Souto (https://sketchfab.com/Andre.Arigony.Souto)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cyclodextrin-ce77b17f477d4041b6eba0f19ad0f6fe",
+      "title": "Cyclodextrin"
+    },
+    "generator": "Sketchfab-4.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 404544,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 644448,
+      "byteOffset": 404544,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1048992,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "m329",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.56470600000000004,
+          0.56470600000000004,
+          0.56470600000000004,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.80107047789999997
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "m475",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.050980400000000002,
+          0.050980400000000002,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.80107047789999997
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "cyclodextrin.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    },
+    {
+      "mesh": 3,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
